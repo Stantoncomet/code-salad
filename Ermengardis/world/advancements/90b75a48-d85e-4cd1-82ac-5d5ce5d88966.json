@@ -1,0 +1,12 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:snowy_plains": "2023-06-18 16:38:45 -0700",
+      "minecraft:forest": "2023-06-18 16:27:44 -0700",
+      "minecraft:ocean": "2023-06-18 16:28:28 -0700",
+      "minecraft:plains": "2023-06-18 16:27:58 -0700"
+    },
+    "done": false
+  },
+  "DataVersion": 3120
+}

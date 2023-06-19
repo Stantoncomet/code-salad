@@ -1,0 +1,6 @@
+[12:44:38] [INFO ] Loaded script server_scripts:dialog.js in 0.01 s
+[12:44:38] [INFO ] server_scripts:script.js:3: Hello, World! (You will see this line every time server resources reload)
+[12:44:38] [INFO ] Loaded script server_scripts:script.js in 0.004 s
+[12:44:38] [INFO ] Loaded 2/2 KubeJS server scripts in 0.029 s
+! [12:45:36] [ERR] #24: Error occurred while handling event 'ItemEvents.entityInteracted': TypeError: Cannot call method "get" of null (server_scripts:dialog.js#24)
+! [12:45:36] [ERR] #24: Error occurred while handling event 'ItemEvents.entityInteracted': TypeError: Cannot call method "get" of null (server_scripts:dialog.js#24)
